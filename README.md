@@ -197,7 +197,6 @@ pip install -r requirements.txt
 
 **Shivam**
 
-LinkedIn: *Add your LinkedIn profile*
 
-GitHub: *Add your GitHub profile*
+GitHub: Shivam23EC188
 this is a project i am making 
